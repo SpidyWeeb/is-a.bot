@@ -4,6 +4,6 @@
     "email": "mrspidyxd@gmail.com"
   },
   "records": {
-    "CNAME": "https://gmail-temp-mail-worker.mrspidyxd.workers.dev"
+    "CNAME": "gmail-temp-mail-worker.mrspidyxd.workers.dev"
   }
 }
